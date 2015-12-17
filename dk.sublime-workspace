@@ -1,0 +1,522 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 115.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dxk/index"
+	],
+	"file_history":
+	[
+		"/Users/dxk/index/index.html",
+		"/Users/dxk/index/one/two/index.html",
+		"/Users/dxk/index/one/index.html",
+		"/Users/dxk/Downloads/10.1007%2F978-3-642-22875-9_13.bib",
+		"/Users/dxk/Dropbox/Projects_private/CV/cv_7/paper.bib",
+		"/Users/dxk/paper_stcd/references.bib",
+		"/Users/dxk/Documents/library.bib",
+		"/Users/dxk/Networkx_ORS/tempfile.dat",
+		"/Users/dxk/Google Drive/Networkx_ORS/_Data/statefair/service_completion_list_ts0.dat",
+		"/Users/dxk/Google Drive/Networkx_ORS/_Data/statefair/service_scenario.dat",
+		"/Users/dxk/Google Drive/Networkx_ORS/_Data/statefair/service_completion_list_ts0_example.dat",
+		"/Users/dxk/Google Drive/Networkx_ORS/_Data/statefair/r75_cd30_ts0_edge_list.dat",
+		"/Users/dxk/Google Drive/Networkx_ORS/stvg.py",
+		"/Users/dxk/Google Drive/Networkx_ORS/_Data/example_a/r75_cd30_ts0_edge_list.dat",
+		"/Users/dxk/Google Drive/Networkx_ORS/_Example/example_a_1sec_004.txt",
+		"/Users/dxk/Google Drive/Networkx_ORS/_Example/example_a_1sec_002.txt",
+		"/Users/dxk/Google Drive/Networkx_ORS/_Example/example_a_1sec_003.txt",
+		"/Users/dxk/Google Drive/Networkx_ORS/_Example/example_a_1sec_000.txt",
+		"/Users/dxk/Google Drive/Networkx_ORS/_Example/example_a_1sec_001.txt",
+		"/Users/dxk/Google Drive/Networkx/datasetanlys.py",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/r75_contact_frequency_duration_tintvl60.dat",
+		"/Users/dxk/Google Drive/Networkx/stvg.py",
+		"/Users/dxk/Downloads/customize_rc.py",
+		"/Users/dxk/Google Drive/Networkx/hatch_demo.py",
+		"/Users/dxk/Downloads/hatch_demo.py",
+		"/Users/dxk/Google Drive/Networkx/_Data/orlando/r75_cd30_optimal_parameters.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/kaist/r75_cd30_optimal_parameters.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/example_a/r75_cd30_ts0_rg_edge_list.dat",
+		"/Users/dxk/Google Drive/Networkx/_Example/example_a_edge.txt",
+		"/Users/dxk/Google Drive/Networkx/_Data/orlando/r75_in_stl500_ttl1800.dat",
+		"/Users/dxk/Downloads/bars3d_demo.py",
+		"/Users/dxk/Google Drive/Networkx/_Data/slaw/r75_cd30_optimal_parameters.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/statefair/r75_in_stl500_ttl1800.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/statefair/r75_influential_nodes.dat",
+		"/Users/dxk/Google Drive/Networkx/datasetpreprocess.py",
+		"/Users/dxk/Google Drive/Networkx/_Data/statefair/dataset_src_positions.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/statefair/dataset_area.dat",
+		"/Users/dxk/Google Drive/Networkx/strg.sublime-project",
+		"/Users/dxk/Google Drive/Networkx/_Data/example_a/r75_cd30_ts2_rg_edge_list.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/example_a/r75_cd30_ttlinf-stlinf_delay_dist.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/r75_contact_frequency_duration_tintvl300.dat",
+		"/Users/dxk/Google Drive/Networkx/strg.py",
+		"/Users/dxk/Google Drive/Networkx/_Data/orlando/r75_contact_frequency_duration_tintvl300.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/orlando/r75_cd60_rg_edge_list.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/orlando/r75_cd30_rg_edge_list.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/statefair/r75_cd30_stl.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/r75_contact_dist_ratio_ttl1100_stl130.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/r75_cd30_ttlinf-stlinf.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/r75_cd30_rg_edge_list.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/r75_cd30_ttlinf-stlinf_delay_dist.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/statefair/r75_cd30_optimal_parameters.dat",
+		"/Users/dxk/Google Drive/Networkx/mplot (1).py",
+		"/Users/dxk/Google Drive/Networkx/mplot.py",
+		"/Users/dxk/Google Drive/Networkx/_Data/example_a/r75_cd30_rg_edge_list.dat",
+		"/Users/dxk/Google Drive/Networkx/test2.py",
+		"/Users/dxk/Google Drive/Networkx/_Data/orlando/r75_cd30_dratio_frame.dat",
+		"/Users/dxk/Networkx/test.py",
+		"/Users/dxk/Google Drive/Networkx/test3.py",
+		"/Users/dxk/Google Drive/Networkx/_Traces_TimeXY_30sec_txt/Statefair/Statefair_30sec_001.txt",
+		"/Users/dxk/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/dxk/Downloads/node_colormap.py",
+		"/Users/dxk/Google Drive/Networkx/tag.py",
+		"/Users/dxk/Google Drive/Networkx/_Data/kaist/dataset_meeting_counts_per_contact.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/slaw/r75_cg_degree_distribution.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/kaist/r75_cg_degree_distribution.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/slaw/r75_proximity_to_contacts.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/orlando/r75_cd30_ttlinf-stlinf_delay_dist.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/r75_cd30_reachability.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/orlando/r75_contact_rate_duration_tintvl300.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/r75_cd30_ttlinf-stlinf_reachability_tintvl300.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/r75_contact_rate2.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/r75_contact_rate_duration_tintvl300.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/r75_contact_rate_tintvl300.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/statefair/r75_contact_rate.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/statefair/dataset_meeting_counts_per_contact.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/statefair/dataset_nn_per_time.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/orlando/r75_degree.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/r75_contact_rate.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/r75_contact_list.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/dataset_meeting_counts_per_contact.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/dataset_nn_per_time.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/r75_corr2.csv",
+		"/Users/dxk/Google Drive/Networkx/_Data/r75_corr.csv",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/r75_corr.csv",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/r75_contact_dist_ratio_ttl1100_stl1300.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/r75_contact_dist_ratio_ttl1100_stl260.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/r75_contact_dist.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/r75_cd30_ttl11000-stl1300.dat",
+		"/Users/dxk/Google Drive/Networkx/gplot.py",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/r75_degree.dat",
+		"/Users/dxk/Networkx/datasetanlys.py",
+		"/Users/dxk/Networkx/_Data/tlw/r75_contact_list.dat",
+		"/Users/dxk/Networkx/_Data/tlw/r75_spatio_contacts.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/r75_spatio_contacts.dat",
+		"/Users/dxk/Google Drive/Networkx/datasetcnv.py",
+		"/Users/dxk/Google Drive/Networkx/stc.py",
+		"/Users/dxk/Google Drive/Networkx/info.py",
+		"/Users/dxk/Google Drive/Networkx/_Data/statefair/r75_edgelist.txt",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/dataset_area.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/statefair/dataset_info_time_length.txt",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/dataset_src_positions.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/contact_histgram.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/src_positions.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/number_of_nodes_per_time.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/dataset_info_time_length.txt",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/dataset_trace_duration.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/meeting_counts_per_contact.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/slaw/r75_edgelist.txt",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/r75_edgelist.txt",
+		"/Users/dxk/Google Drive/Networkx/statistics.py",
+		"/Users/dxk/Google Drive/Networkx/_Example/example_d_edge.txt",
+		"/Users/dxk/Google Drive/Networkx/_Example/example_c_edge.txt",
+		"/Users/dxk/Google Drive/Networkx/_Data/slaw/r75_corr.csv",
+		"/Users/dxk/Google Drive/Networkx/_Data/tlw/r75_cd30_ttl1100-stl1300.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/statefair/r75_cd30_ttl600-stl1000.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/orlando/contact_histgram.dat",
+		"/Users/dxk/Google Drive/Networkx/_Data/kaist/r75_corr.csv",
+		"/Users/dxk/Google Drive/Networkx/_Data/statefair/r75_corr.csv",
+		"/Users/dxk/Google Drive/Networkx/_Data/ncsu/r75_corr.csv",
+		"/Users/dxk/Google Drive/Networkx/_Data/newyork/r75_corr.csv",
+		"/Users/dxk/Google Drive/Networkx/_Data/orlando/r75_corr.csv",
+		"/Users/dxk/Google Drive/Networkx/_Data/slaw/r75_cd30_reachability.dat",
+		"/Users/dxk/Google Drive/Networkx/Bonnmotion/0429_Bonnmortion.txt",
+		"/Users/dxk/Google Drive/Networkx/tvg.py",
+		"/Users/dxk/Google Drive/Networkx/dataset_converter.py",
+		"/Users/dxk/Google Drive/Networkx/_Data/slaw/contact_histgram.dat",
+		"/Users/dxk/Google Drive/Networkx/Bonnmotion/SLAW/SLAW_30sec_019.txt",
+		"/Users/dxk/Google Drive/Networkx/Bonnmotion/SLAW/SLAW_30sec_001.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			">",
+			"latex",
+			"laatex",
+			"legend",
+			"hatch",
+			"DL",
+			"shortestDL",
+			"Infocom'16",
+			"ttl_min",
+			"stl_min",
+			"self.__TAG",
+			"__TAG",
+			"self.__CNTCTDURATION",
+			"CNTCTDURATION",
+			"d_ead",
+			"t_ead",
+			"self.__DEPTTIME",
+			"self.__TAG",
+			"father",
+			"DEPTTIME",
+			"self.__source_node",
+			"self.__CNTCTDURATION",
+			"__visualization",
+			"self.__TTL",
+			"contact_duration",
+			"dept_time",
+			"ceil",
+			"jet",
+			"color",
+			"title",
+			"self.__DATASET",
+			"self.__STRG",
+			"t",
+			"t_intvl",
+			"dept_time",
+			"contact_duration",
+			"contact_duratio",
+			"d",
+			"factors",
+			"factor",
+			"graphs",
+			"draw_",
+			"draw",
+			"g",
+			"self.__range",
+			"__g_type",
+			"stat",
+			"mplot",
+			"__strt_elements",
+			"self.__strt_elements",
+			"self.__src_intermediate_nodes",
+			"self.__strt_elements",
+			"strt_elements",
+			"departure_time",
+			"pause_time",
+			"__contact_duration",
+			"__departure_time",
+			"__stl",
+			"__ttl",
+			"__g_type",
+			"__comm_range",
+			"heap",
+			"decimal",
+			"math",
+			"dataset",
+			"self.__DATASET",
+			"REACH",
+			"cost",
+			"txrange",
+			"space_to_live",
+			"time_to_live",
+			"nn",
+			"sTL",
+			"R",
+			"monitor",
+			"stl",
+			"ttl",
+			"df_orig",
+			"df_c",
+			"file_name",
+			"posy_src",
+			"posx_src",
+			"P_ST",
+			"contacts",
+			"number_of_files",
+			"dist",
+			"contacts",
+			"sm",
+			"g",
+			"Counter",
+			"nx",
+			"g",
+			"nn",
+			"__directory",
+			"__contact_time",
+			"__spatio_temporal_contacts",
+			"__temporal_contacts",
+			"file_to_read",
+			"contact_dist.dat",
+			"fcd",
+			"fsc",
+			"graph_type",
+			"number_of_nodes",
+			"__g_type",
+			"pause_time",
+			"temporal_velocity_list",
+			"temporal_degree_list",
+			"comm_range",
+			"graph_type",
+			"TVG",
+			"self.__DATASET",
+			"graph_type",
+			"Bonn_motion",
+			"Bonnmotion",
+			"Bonmotion",
+			"Traces",
+			"Bonnmotion",
+			"comm_range",
+			"__g_type",
+			"__data_file",
+			"__g_type",
+			"__dataset",
+			"self.__gtype",
+			"number_of_files",
+			"Dir",
+			"__time_length",
+			"graph_type",
+			"comm_range"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"distance",
+			"SV",
+			"Paper",
+			"minDRTTL",
+			"minDRSTL",
+			"self.__CD",
+			"s_length",
+			"t_length",
+			"t_s",
+			"tag",
+			"parent",
+			"src",
+			"DATASET",
+			"t_intvl_begin",
+			"t_intvl",
+			"T_INTVL",
+			"t_s",
+			"CD",
+			"DATASET",
+			"factor",
+			"FACTOR",
+			"dataset",
+			"plot_",
+			"DATASET",
+			"__DATASET",
+			"matplot",
+			"__src_intermediate_nodes",
+			"src_intermediate_nodes",
+			"dept_time",
+			"__CNTCTDURATION",
+			"__DEPTTIME",
+			"__STL",
+			"__TTL",
+			"__DATASET",
+			"__TXRANGE",
+			"DATASET",
+			"reach",
+			"COST",
+			"TXRANGE",
+			"stl",
+			"ttl",
+			"STL",
+			"REACH",
+			"sTL",
+			"TTL",
+			"srcy",
+			"srcx",
+			"contact_dist_list",
+			"total_contact_counts",
+			"nn",
+			"contact_dist",
+			"self.__DATASET",
+			"dataset",
+			"nn",
+			"__DATASET",
+			"velocity_list",
+			"degree_list",
+			"TXRANGE",
+			"STVG",
+			"dataset",
+			"_Traces",
+			"_Bonnmotion",
+			"TXRANGE",
+			"__DATASET",
+			"self.__dataset",
+			"nn",
+			"DIR",
+			"__trace_duration",
+			"dataset",
+			"txrange",
+			"COST",
+			"TXRANGE",
+			"DATASET",
+			"contact_counts",
+			"edgelist",
+			"self.__src_positions",
+			"data_v",
+			"data_u",
+			"nn",
+			"tx_range",
+			"self.__dataset",
+			"transmission",
+			"'k'",
+			"stl",
+			"ttl"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "dk.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
