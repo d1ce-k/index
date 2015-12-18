@@ -11,15 +11,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 1928,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "publications/index.html",
-			"settings":
-			{
-				"buffer_size": 5255,
+				"buffer_size": 2033,
 				"line_ending": "Unix"
 			}
 		}
@@ -70,10 +62,12 @@
 	"expanded_folders":
 	[
 		"/Users/dxk/index",
+		"/Users/dxk/index/one",
 		"/Users/dxk/index/publications"
 	],
 	"file_history":
 	[
+		"/Users/dxk/index/publications/index.html",
 		"/Users/dxk/Downloads/cv.tex",
 		"/Users/dxk/Downloads/resume.tex",
 		"/Users/dxk/index/index.html",
@@ -200,8 +194,7 @@
 		"/Users/dxk/Google Drive/Networkx/_Data/slaw/r75_cd30_reachability.dat",
 		"/Users/dxk/Google Drive/Networkx/Bonnmotion/0429_Bonnmortion.txt",
 		"/Users/dxk/Google Drive/Networkx/tvg.py",
-		"/Users/dxk/Google Drive/Networkx/dataset_converter.py",
-		"/Users/dxk/Google Drive/Networkx/_Data/slaw/contact_histgram.dat"
+		"/Users/dxk/Google Drive/Networkx/dataset_converter.py"
 	],
 	"find":
 	{
@@ -458,15 +451,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1928,
+						"buffer_size": 2033,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1778,
-								1778
+								1337,
+								1337
 							]
 						],
 						"settings":
@@ -538,34 +531,6 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "publications/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5255,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1235,
-								1235
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 383.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
 					"type": "text"
 				}
 			]
