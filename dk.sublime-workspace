@@ -11,7 +11,15 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 2033,
+				"buffer_size": 2311,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "publications/index.html",
+			"settings":
+			{
+				"buffer_size": 5255,
 				"line_ending": "Unix"
 			}
 		}
@@ -62,7 +70,6 @@
 	"expanded_folders":
 	[
 		"/Users/dxk/index",
-		"/Users/dxk/index/one",
 		"/Users/dxk/index/publications"
 	],
 	"file_history":
@@ -451,15 +458,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2033,
+						"buffer_size": 2311,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1337,
-								1337
+								1984,
+								1984
 							]
 						],
 						"settings":
@@ -527,10 +534,38 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 574.0,
+						"translation.y": 589.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "publications/index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 5255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
